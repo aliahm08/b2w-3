@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 742" role="img" aria-label="B2W: Capabilities built around the operator. Discovery, Workflow design, Implementation.">
+<rect x="0" y="0" width="1200" height="742" rx="4" fill="#F7F4EF" stroke="none"/>
+<rect x="0" y="0" width="12" height="742" rx="4" fill="#EF772C" stroke="none"/>
+<rect x="50" y="52" width="1100" height="638" rx="4" fill="#FFFFFF" stroke="#D8D9D5"/>
+<path d="M50 52 L1150 52" stroke="#EF772C" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="78" y="113" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#191919" text-anchor="start">B2W / CAPABILITIES</text>
+<text x="78" y="158" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#191919" text-anchor="start">Capabilities built around the operator</text>
+<path d="M78 186 L1121 186" stroke="#D8D9D5" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="78" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#68706B" text-anchor="start">DESIGN ASSET  /  ILLUSTRATIVE • REVIEW BEFORE PUBLICATION</text>
+<text x="1112" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#EF772C" text-anchor="end">B2W-02-01</text>
+<rect x="91" y="218" width="326" height="350" rx="4" fill="#FFF0E2" stroke="#D8D9D5"/>
+<rect x="115" y="242" width="278" height="202" rx="4" fill="#FFFFFF" stroke="none"/>
+<path d="M131 402 L223 304 L304 362 L370 275" stroke="#EF772C" stroke-width="4" fill="none"/>
+<text x="114" y="493" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#191919" text-anchor="start">Discovery</text>
+<rect x="435" y="218" width="326" height="350" rx="4" fill="#191919" stroke="#D8D9D5"/>
+<rect x="459" y="242" width="278" height="202" rx="4" fill="#313B38" stroke="none"/>
+<path d="M475 402 L567 304 L648 362 L714 275" stroke="#EF772C" stroke-width="4" fill="none"/>
+<text x="458" y="493" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="start">Workflow design</text>
+<rect x="779" y="218" width="326" height="350" rx="4" fill="#FFF0E2" stroke="#D8D9D5"/>
+<rect x="803" y="242" width="278" height="202" rx="4" fill="#FFFFFF" stroke="none"/>
+<path d="M819 402 L911 304 L992 362 L1058 275" stroke="#EF772C" stroke-width="4" fill="none"/>
+<text x="802" y="493" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#191919" text-anchor="start">Implementation</text>
+</svg>

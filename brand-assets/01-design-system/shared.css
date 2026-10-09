@@ -1,0 +1,14 @@
+:root{--phi:1.61803398875;--brand-accent:#EF772C;--paper:#F7F4EF;--ink:#191919;--gutter:clamp(12px,1.5vw,30px);--size:16px}
+[data-brand="jasonai"]{--brand-accent:#267C58;--paper:#F5F8F4;--ink:#143D2C}
+[data-brand="clara"]{--brand-accent:#8560A7;--paper:#FAF8FC;--ink:#2C1A44}
+.brand-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:var(--gutter)}.brand-grid>*{grid-column:span 3;min-width:0}
+.brand-pair{display:grid;grid-template-columns:minmax(0,1.61803398875fr) minmax(0,1fr);gap:var(--gutter)}
+.brand-page{font:400 var(--size)/1.6 Inter,system-ui,sans-serif;color:var(--ink);background:var(--paper);margin-inline:auto;max-width:1960px}
+.brand-page h1,.brand-page h2,.brand-page h3,.brand-page .active{font-size:inherit;font-weight:700}
+.brand-page a{text-decoration:underline;text-underline-offset:3px}.brand-page button{text-decoration:none}
+.brand-image{display:block;width:100%;height:auto}.brand-image-photo{filter:saturate(.78) contrast(1.08) sepia(.11)}
+[data-brand="jasonai"] .brand-image-photo{filter:saturate(.76) contrast(1.07) hue-rotate(-7deg)}
+[data-brand="clara"] .brand-image-photo{filter:saturate(.70) contrast(1.08) hue-rotate(3deg)}
+@media(max-width:767px){.brand-grid>*{grid-column:span 6}.brand-pair{grid-template-columns:1fr}}
+@media(min-width:1800px){.brand-grid>*{grid-column:span 2}}
+@media(prefers-reduced-motion:reduce){.brand-page *, .brand-page *::before,.brand-page *::after{animation:none!important;transition:none!important}}

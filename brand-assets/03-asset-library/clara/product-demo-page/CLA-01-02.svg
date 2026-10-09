@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 742" role="img" aria-label="Clara: Listen, transcribe, correct. Voice note, Typed words, Review edit.">
+<rect x="0" y="0" width="1200" height="742" rx="4" fill="#FAF8FC" stroke="none"/>
+<rect x="0" y="0" width="12" height="742" rx="4" fill="#8560A7" stroke="none"/>
+<rect x="50" y="52" width="1100" height="638" rx="4" fill="#FFFFFF" stroke="#D8D9D5"/>
+<path d="M50 52 L1150 52" stroke="#8560A7" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="78" y="113" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">CLARA / ON-SITE VOICE NOTE</text>
+<text x="78" y="158" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">Listen, transcribe, correct</text>
+<path d="M78 186 L1121 186" stroke="#D8D9D5" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="78" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#68706B" text-anchor="start">DESIGN ASSET  /  ILLUSTRATIVE • REVIEW BEFORE PUBLICATION</text>
+<text x="1112" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#8560A7" text-anchor="end">CLA-01-02</text>
+<rect x="93" y="215" width="660" height="380" rx="4" fill="#2C1A44" stroke="none"/>
+<rect x="778" y="215" width="327" height="380" rx="4" fill="#F1EAF7" stroke="none"/>
+<text x="127" y="269" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="start">Voice note</text>
+<text x="127" y="347" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" text-anchor="start">“Review the room and</text>
+<text x="127" y="381" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" text-anchor="start">note any open questions.”</text>
+<text x="807" y="276" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">Typed words</text>
+<path d="M807 309 L1065 309" stroke="#8560A7" stroke-width="3" fill="none" stroke-linecap="round"/>
+<text x="807" y="392" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#2C1A44" text-anchor="start">Review edit</text>
+<text x="807" y="477" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#2C1A44" text-anchor="start">Needs human review</text>
+</svg>
