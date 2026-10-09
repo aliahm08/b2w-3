@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 742" role="img" aria-label="Clara: A presentation follows a reviewed record. Source, Estimate, Presentation.">
+<rect x="0" y="0" width="1200" height="742" rx="4" fill="#FAF8FC" stroke="none"/>
+<rect x="0" y="0" width="12" height="742" rx="4" fill="#8560A7" stroke="none"/>
+<rect x="50" y="52" width="1100" height="638" rx="4" fill="#FFFFFF" stroke="#D8D9D5"/>
+<path d="M50 52 L1150 52" stroke="#8560A7" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="78" y="113" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">CLARA / APP MVP INTRODUCTION</text>
+<text x="78" y="158" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">A presentation follows a reviewed record</text>
+<path d="M78 186 L1121 186" stroke="#D8D9D5" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="78" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#68706B" text-anchor="start">DESIGN ASSET  /  ILLUSTRATIVE • REVIEW BEFORE PUBLICATION</text>
+<text x="1112" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#8560A7" text-anchor="end">CLA-05-03</text>
+<rect x="92" y="216" width="648" height="367" rx="4" fill="#2C1A44" stroke="none"/>
+<rect x="762" y="216" width="347" height="367" rx="4" fill="#F1EAF7" stroke="none"/>
+<text x="127" y="286" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#8560A7" text-anchor="start">Source</text>
+<text x="127" y="389" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" text-anchor="start">Estimate</text>
+<text x="127" y="492" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" text-anchor="start">Presentation</text>
+<circle cx="933" cy="360" r="88" fill="none" stroke="#8560A7" stroke-width="3"/>
+<path d="M933 295 L992 407 H875 Z" fill="none" stroke="#8560A7" stroke-width="4"/>
+<text x="790" y="515" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#2C1A44" text-anchor="start">Interface illustration</text>
+</svg>

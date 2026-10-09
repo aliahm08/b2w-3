@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 742" role="img" aria-label="Clara: An outline for scope and feasibility. Existing conditions, Constraints, Renovation plan.">
+<rect x="0" y="0" width="1200" height="742" rx="4" fill="#FAF8FC" stroke="none"/>
+<rect x="0" y="0" width="12" height="742" rx="4" fill="#8560A7" stroke="none"/>
+<rect x="50" y="52" width="1100" height="638" rx="4" fill="#FFFFFF" stroke="#D8D9D5"/>
+<path d="M50 52 L1150 52" stroke="#8560A7" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="78" y="113" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">CLARA / PLANNING AND VERIFICATION</text>
+<text x="78" y="158" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">An outline for scope and feasibility</text>
+<path d="M78 186 L1121 186" stroke="#D8D9D5" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="78" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#68706B" text-anchor="start">DESIGN ASSET  /  ILLUSTRATIVE • REVIEW BEFORE PUBLICATION</text>
+<text x="1112" y="662" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#8560A7" text-anchor="end">CLA-04-01</text>
+<rect x="92" y="218" width="686" height="366" rx="4" fill="#FCFCFC" stroke="#D8D9D5"/>
+<rect x="792" y="218" width="316" height="366" rx="4" fill="#F1EAF7" stroke="none"/>
+<path d="M104 235 L104 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M151 235 L151 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M198 235 L198 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M245 235 L245 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M292 235 L292 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M339 235 L339 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M386 235 L386 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M433 235 L433 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M480 235 L480 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M527 235 L527 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M574 235 L574 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M621 235 L621 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M668 235 L668 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M715 235 L715 567" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 236 L761 236" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 281 L761 281" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 326 L761 326" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 371 L761 371" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 416 L761 416" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 461 L761 461" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 506 L761 506" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M106 551 L761 551" stroke="#E5E6E5" stroke-width="1" fill="none" stroke-linecap="round"/>
+<path d="M157 489 V297 H460 V375 H698 V513 H521 V474 H348 V532 H157" stroke="#2C1A44" stroke-width="5" fill="none"/>
+<path d="M348 299 V474 M462 375 H347 M520 474 V511" stroke="#8560A7" stroke-width="4" fill="none"/>
+<text x="176" y="345" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">Existing conditions</text>
+<text x="485" y="412" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#2C1A44" text-anchor="start">Constraints</text>
+<text x="376" y="500" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#2C1A44" text-anchor="start">Renovation plan</text>
+<text x="813" y="271" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#2C1A44" text-anchor="start">SCOPE STATE</text>
+<text x="813" y="354" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#2C1A44" text-anchor="start">Conceptual only</text>
+<text x="813" y="394" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="400" fill="#2C1A44" text-anchor="start">Verify independently</text>
+</svg>
