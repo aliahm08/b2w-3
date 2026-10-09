@@ -1,0 +1,1 @@
+window.B2W_CONTACT_EMAIL='';
